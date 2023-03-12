@@ -1,6 +1,6 @@
 # prettymaps
 
-[Prettymaps](https://github.com/marceloprates/prettymaps) is a Python package created by Marcelo Prates that utilizes [osmnx](https://github.com/gboeing/osmnx), [matplotlib](https://matplotlib.org/), [shapely](https://shapely.readthedocs.io/en/stable/index.html) and [vsketch](https://github.com/abey79/vsketch) packages to create maps with customizable styles from [OpenStreetMap](https://www.openstreetmap.org/#map=12/11.0733/106.3078) data.
+[Prettymaps](https://github.com/marceloprates/prettymaps) is a Python package created by Marcelo Prates that utilizes [OSMnx](https://github.com/gboeing/osmnx), [matplotlib](https://matplotlib.org/), [shapely](https://shapely.readthedocs.io/en/stable/index.html) and [vsketch](https://github.com/abey79/vsketch) packages to create maps with customizable styles from [OpenStreetMap](https://www.openstreetmap.org/#map=12/11.0733/106.3078) data.
 
 
 # Installation
