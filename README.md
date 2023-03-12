@@ -5,7 +5,7 @@
 
 # Installation
 
-### Activate your conda enviromment. In my case: 
+### Activate your conda environment. In my case: 
 
 ```
 conda activate prettymaps
