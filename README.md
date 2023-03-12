@@ -23,7 +23,7 @@ conda install -c conda-forge prettymaps
 
 ### Import prettymaps and matplotlib
 
-```
+```python
 import prettymaps
 import matplotlib
 from matplotlib.font_manager import FontProperties
@@ -32,7 +32,7 @@ from matplotlib import pyplot as plt
 ```
 ### And run
 
-```
+```python
 # Create matplotlib figure
 fig, ax = plt.subplots(figsize = (20, 20), constrained_layout = True)
 
